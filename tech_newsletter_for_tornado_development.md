@@ -3,7 +3,7 @@
 应[荣哥](http://github.com/jacky098123/)相邀写些关于Tornado的东西.
 
 本文使用[Markdown](http://en.wikipedia.org/wiki/Markdown)语法,
-文档源码[在此](https://github.com/bufferx/blog_post_newsletter_tornado/blob/master/post.md).
+文档源码[在此](https://github.com/bufferx/blog_post/blob/master/tech_newsletter_for_tornado_development.md).
 
 ## Tips
 - 本文不是Tornado入门
@@ -86,8 +86,8 @@ host),时间可能消耗在路由查找中
 - [Documentation](http://www.tornadoweb.org/en/stable/)
 - [Mailing
   List](https://groups.google.com/forum/?fromgroups#!forum/python-tornado)
-  - [Issue Tracker](https://github.com/facebook/tornado/issues)
-  - [Additional Resource](https://github.com/facebook/tornado/wiki/Links)
+- [Issue Tracker](https://github.com/facebook/tornado/issues)
+- [Additional Resource](https://github.com/facebook/tornado/wiki/Links)
 
 # About ME
 
@@ -97,9 +97,6 @@ host),时间可能消耗在路由查找中
 - Blog: [http://idupx.blogspot.com/](http://idupx.blogspot.com/)
 - Github: [@bufferx](https://github.com/bufferx)
 - Twitter: [@bf4x](https://twitter.com/bf4x)
-- Google+:
-  [@zhangzy](https://plus.google.com/u/0/112868893071466095324/posts/p/pub)
-- LinkedIn: [@zhangzy](https://www.linkedin.com/in/zhangzy)
 
 ## Tech
 - 工作经历中使用过多种编程语言及开发环境
@@ -111,4 +108,5 @@ host),时间可能消耗在路由查找中
 - 这是篇内部技术Newsletter
 - Tech News
 - 当时邮件组讨论激烈,进一步扩大了Python及Tornado的普及和使用
+
 欢迎交流 :)
