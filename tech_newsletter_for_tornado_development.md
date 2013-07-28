@@ -29,6 +29,7 @@ Tornado中统一了generator与Epoll事件处理, 可以依次发送多个REQUES
 事件循环原因, 会略有损耗).
 
 [CODE](https://gist.github.com/bufferx/5494125)
+
 [gevent实现与Tornado的区别](http://idupx.blogspot.com/2013/05/async-batch-httprequest-base-on-tornado.html)
 
 ### Bugfix: asyncmongo blocking connection
@@ -101,12 +102,12 @@ host),时间可能消耗在路由查找中
 ## Tech
 - 工作经历中使用过多种编程语言及开发环境
 - 近两年工作语言使用Python, 使用Python最多的是写Tornado相关的东西
-- 其实我喜欢C
+- 其实我也喜欢C
 - 对于网络服务开发, 垂直搜索后端架构方面有点儿心得
 
 # 后记
-- 这是篇内部技术Newsletter
-- Tech News
+- 这是篇5月末内部技术Newsletter
+- Tech Newsletter使用邀请制
 - 当时邮件组讨论激烈,进一步扩大了Python及Tornado的普及和使用
 
 欢迎交流 :)
