@@ -16,7 +16,7 @@ Talk is cheap, Show me the code.
 
 ## 实践
 
-- 去年分享[Slides](https://docs.google.com/a/kuxun.com/presentation/d/1rf_wUpNQaxVide5s2wmo3lNP-6V3SZiUBLksxw1JtdE/edit#slide=id.p),
+- 去年分享[Slides](http://www.slideshare.net/ZYZhang1/tornado-24714163),
   有更新
 
 ## 两个CASE
@@ -106,8 +106,8 @@ host),时间可能消耗在路由查找中
 - 对于网络服务开发, 垂直搜索后端架构方面有点儿心得
 
 # 后记
-- 这是篇5月末内部技术Newsletter
+- 这是篇5月末分享技术Newsletter
 - Tech Newsletter使用邀请制
-- 当时邮件组讨论激烈,进一步扩大了Python及Tornado的普及和使用
+- 当时厂内邮件组讨论激烈,进一步扩大了Python及Tornado的普及和使用
 
 欢迎交流 :)
